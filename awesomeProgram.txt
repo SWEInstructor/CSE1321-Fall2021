@@ -1,4 +1,7 @@
 
+This is my text file!
+Code can go here if you want (just make sure the file extension is correct)
+New line of text!
 
 Hola, como estas!
 Me llamo Professor Murphy!
